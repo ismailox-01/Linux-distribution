@@ -15,4 +15,5 @@ Here are the download links for the Linux distributions shown in the image:
 10 - CentOS: https://www.centos.org/download/
 
 
+
 Let me know if you need guidance on installing or setting up any of these distributions!
