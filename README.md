@@ -37,9 +37,19 @@ https://github.com/user-attachments/assets/c3532383-e3fa-4d06-b9e3-89160fff8986
 
 ## Overview
 
-This project consists of two main components:
+##This project consists of two main components:
 1. **Thinking Protocol**: A comprehensive set of instructions that guides Claude to think deeply and systematically before responding
 2. **Browser Extension**: A tool that makes Claude's thinking process more readable and manageable in the browser interface
+1. - **Ubuntu**: https://ubuntu.com/download
+2. - **Debian**: https://www.debian.org/distrib/
+3. - **openSUSE**: https://www.opensuse.org/
+4. - **elementary OS**: https://elementary.io/
+5. - **Kali Linux**: https://www.kali.org/get-kali/
+6. - **Linux Mint**: https://linuxmint.com/download.php
+7. - **Manjaro**: https://manjaro.org/download/
+8. - **Arch Linux**: https://archlinux.org/download/
+9. - **Fedora**: https://getfedora.org/
+10. - **CentOS**: https://www.centos.org/download/
 
 ## Thinking Protocol
 
