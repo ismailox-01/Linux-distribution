@@ -3,16 +3,16 @@
 Here are the download links for the Linux distributions shown in the image:
 
 
-1 - Ubuntu: https://ubuntu.com/download
-2 - Debian: https://www.debian.org/distrib/
-3 - openSUSE: https://www.opensuse.org/
-4 - elementary OS: https://elementary.io/
-5 - Kali Linux: https://www.kali.org/get-kali/
-6 - Linux Mint: https://linuxmint.com/download.php
-7 - Manjaro: https://manjaro.org/download/
-8 - Arch Linux: https://archlinux.org/download/
-9 - Fedora: https://getfedora.org/
-10 - CentOS: https://www.centos.org/download/
+>1 - Ubuntu: https://ubuntu.com/download
+>2 - Debian: https://www.debian.org/distrib/
+>3 - openSUSE: https://www.opensuse.org/
+>4 - elementary OS: https://elementary.io/
+>5 - Kali Linux: https://www.kali.org/get-kali/
+>6 - Linux Mint: https://linuxmint.com/download.php
+>7 - Manjaro: https://manjaro.org/download/
+>8 - Arch Linux: https://archlinux.org/download/
+>9 - Fedora: https://getfedora.org/
+>10 - CentOS: https://www.centos.org/download/
 
 
 
